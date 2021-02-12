@@ -8,9 +8,6 @@ export default {
     router: {
       base: process.env.NODE_ENV === 'github' ? '/test/' : '/',
     },
-    content: {
-      liveEdit: true
-    },
     generate: {
       fallback: '404.html'
     },
@@ -41,7 +38,6 @@ export default {
     },
     modules: [
       ['nuxt-buefy', { css: true, materialDesignIcons: false }],
-      ['@nuxt/content']
     ],
     head: {
       htmlAttrs: {
