@@ -1,0 +1,66 @@
+[
+    {
+        "grade": 0,
+        "min": 0
+    },
+    {
+        "grade": 1,
+        "min": 20
+    },
+    {
+        "grade": 2,
+        "min": 27
+    },
+    {
+        "grade": 3,
+        "min": 33
+    },
+    {
+        "grade": 4,
+        "min": 40
+    },
+    {
+        "grade": 5,
+        "min": 45
+    },
+    {
+        "grade": 6,
+        "min": 50
+    },
+    {
+        "grade": 7,
+        "min": 55
+    },
+    {
+        "grade": 8,
+        "min": 60
+    },
+    {
+        "grade": 9,
+        "min": 65
+    },
+    {
+        "grade": 10,
+        "min": 70
+    },
+    {
+        "grade": 11,
+        "min": 75
+    },
+    {
+        "grade": 12,
+        "min": 80
+    },
+    {
+        "grade": 13,
+        "min": 85
+    },
+    {
+        "grade": 14,
+        "min": 90
+    },
+    {
+        "grade": 15,
+        "min": 95
+    }
+]
