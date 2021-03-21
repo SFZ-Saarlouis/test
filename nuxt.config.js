@@ -7,6 +7,7 @@ export default {
     },
     router: {
       base: process.env.NODE_ENV === 'github' ? '/test/' : '/',
+      middleware: 'studentData'
     },
     generate: {
       fallback: '404.html'

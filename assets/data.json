@@ -2,5 +2,13 @@
     {
         "name": "Beispiel Aufgabe",
         "component": "example-one"
+    },
+    {
+        "name": "Beispiel Zwei",
+        "component": "example-one"
+    },
+    {
+        "name": "Beispiel Drei",
+        "component": "example-one"
     }
 ]
